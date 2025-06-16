@@ -1,0 +1,24 @@
+{
+  "location": {
+    "name": "Ufa International Airport",
+    "region": "Ufa",
+    "country": "Russia",
+    "lat": 54.5574989318848,
+    "lon": 55.8744010925293,
+    "tz_id": "Asia/Yekaterinburg",
+    "localtime_epoch": 1749999599,
+    "localtime": "2025-06-15 19:59"
+  },
+  "current": {
+    "last_updated_epoch": 1749998700,
+    "last_updated": "2025-06-15 19:45",
+    "temp_c": 24.4,
+    "temp_f": 75.9,
+    "is_day": 1,
+    "condition": {
+      "text": "Partly cloudy",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+      "code": 1003
+    }
+  }
+}
